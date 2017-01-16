@@ -1,1 +1,2 @@
-Just a raw text File
+Just a raw text File and my test file to check all git operations
+
